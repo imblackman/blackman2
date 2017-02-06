@@ -259,8 +259,8 @@ function create_config( )
     sudo_users = {246153792,222002038,199042636,263518546,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-	SOURCE BY ERNEST TM
-		@ERNEST_TM
+	SOURCE BY Khoffash
+		@Khoffash_team
 ]],
   }
   serialize_to_file(config, './data/config.lua')
